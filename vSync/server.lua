@@ -353,4 +353,3 @@ function NextWeatherStage()
         print("[vSync] Resetting timer to 10 minutes.\n")
     end
 end
-
